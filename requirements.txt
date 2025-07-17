@@ -6,3 +6,4 @@ fpdf
 setuptools>=65.5.0
 wheel
 cython
+whitenoise
