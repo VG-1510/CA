@@ -30,6 +30,7 @@ PyYAML==6.0.1
 regex==2024.4.28
 requests==2.31.0
 safetensors==0.4.3
+setuptools>=65.5.0
 sqlparse==0.4.4
 tbb==2021.12.0
 typing_extensions==4.11.0
@@ -37,4 +38,5 @@ tzdata==2023.3
 urllib3==2.0.3
 vboxapi==1.0
 virtualenv==20.26.3
+wheel
 whitenoise==6.9.0
