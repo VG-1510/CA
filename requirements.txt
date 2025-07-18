@@ -1,9 +1,5 @@
-Django>=3.2
-gunicorn
-mysqlclient
-numpy
-fpdf
-setuptools>=65.5.0
-wheel
-cython
-whitenoise
+asgiref==3.9.0
+Django==5.2.4
+sqlparse==0.5.3
+tzdata==2025.2
+whitenoise==6.9.0
