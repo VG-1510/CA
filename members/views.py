@@ -31,3 +31,6 @@ def service(request): #done
 
 def team(request): #done
     return render(request, 'team.html')
+
+def job(request): #done
+    return render(request, 'job.html')
